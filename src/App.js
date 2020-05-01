@@ -5,6 +5,7 @@ import "@fortawesome/fontawesome-free/css/all.min.css";
 import TodoInput from "./components/TodoInput";
 import TodoList from "./components/TodoList";
 
+//showing vscode github setup
 function App() {
   return (
     <div>
